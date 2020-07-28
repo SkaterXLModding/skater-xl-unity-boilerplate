@@ -19,3 +19,5 @@ Unity project boilerplate to make maps for SkaterXL
 ![image](https://i.imgur.com/rZdVwTQ.png)
 
 - Now you can open the project through Unity Hub
+
+Want to learn more about SXL mapping? Check out [the wiki](https://github.com/SkaterXLModding/skater-xl-mapping-wiki)
