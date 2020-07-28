@@ -4,7 +4,21 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - GrindSpline
+  - Concrete
+  - Wood
+  - Metal
+  - SpawnPoint
+  - AutoRevert
+  - AutoPumpAndRevert
+  - Grind_Concrete
+  - Grind_Metal
+  - Surface_Concrete
+  - Surface_Wood
+  - Surface_Brick
+  - Surface_Tarmac
+  - AutoRevert_Concrete
+  - AutoPumpAndRevert_Concrete
+  - Surface_Grass
   layers:
   - Default
   - TransparentFX
@@ -18,11 +32,11 @@ TagManager:
   - 
   - 
   - 
+  - Grindable
   - 
   - 
   - 
-  - 
-  - 
+  - Coping
   - 
   - 
   - 
